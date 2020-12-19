@@ -1,3 +1,9 @@
+Names: Ali El Sayed and Ahmed Ali AbdelAziz
+
+The project aims to reduce the dynamic power consumption in synchronous circuits by using a techinque called "Clock Gating". It reduces the power by switching off the clock when it is not needed. It is important for devices to operate on battries and high-performance computing systems.
+
+
+
 # AutomatedClockGate
 THIS README FILE SHOWS HOW YOU CAN USE THE TOOL
 
